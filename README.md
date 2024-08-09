@@ -4,4 +4,5 @@ Mi primer repositorio de Github
 
 Mas lineas
 
-# Documentacion 1 (Dec1)
+# Documentacion 2 (Dev2)
+Documentacion del desarrollador 2 
